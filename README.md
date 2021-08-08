@@ -1,7 +1,5 @@
 # Redux TODO
 
----
-
 ## Technologies
 
 - Redux Fundamental
