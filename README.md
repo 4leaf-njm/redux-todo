@@ -1,3 +1,9 @@
-# Vanilla Redux
+# Redux TODO
 
-Learning Vanilla-Redux and React-Redux
+---
+
+## Technologies
+
+- Redux Fundamental
+- Redux Toolkit
+- Redux DevTools
